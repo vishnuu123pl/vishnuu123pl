@@ -1,5 +1,5 @@
   <a href="https://github.com/vishnuu123pl/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Dream+big+work+hard+stay humble&font=Fira%20SemiBold&center=true&width=480&height=45&color=fff68f&vCenter=true&pause=1000&size=40" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Dream+Big+Work+Hard+Stay+Humble&font=Fira%20SemiBold&center=true&width=480&height=45&color=fff68f&vCenter=true&pause=1000&size=40" /></a>
 </p>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+My+GitHub+Profile;My+Name+Is+Vishnu❤️;I+Am+Nothing;Currently+Learning+Nothing;Thank+You!)
