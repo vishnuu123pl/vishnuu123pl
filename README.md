@@ -33,27 +33,3 @@
 # My Social Profiles
 
 
-import random
-from datetime import datetime
-
-quotes = [
-    "Dream big, work hard, stay humble.",
-    "Code is like humor. When you have to explain it, it’s bad.",
-    "Keep pushing forward, success is near!",
-    "Eat, Sleep, Code, Repeat."
-]
-
-today_quote = random.choice(quotes)
-
-with open("README.md", "r", encoding="utf-8") as f:
-    content = f.read()
-
-start_tag = "<!-- QUOTE-START -->"
-end_tag = "<!-- QUOTE-END -->"
-
-new_content = content.split(start_tag)[0] + start_tag + "\n" + today_quote + "\n" + end_tag + content.split(end_tag)[1]
-
-with open("README.md", "w", encoding="utf-8") as f:
-    f.write(new_content)
-
-print(f"Updated README with quote: {today_quote}")
