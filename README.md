@@ -1,3 +1,11 @@
+  <a href="https://github.com/vishnuu123pl/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Tech+VJ&font=Fira%20SemiBold&center=true&width=480&height=45&color=fff68f&vCenter=true&pause=1000&size=40" /></a>
+</p>
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+My+GitHub+Profile;My+Name+Is+Vishnu❤️;I+Am+Nothing;Currently+Learning+Nothing;Thank+You!)
+
+
+
 ---
 ## 👋 Hii, I’m VISHNU A, Welcome to my GitHub Profile
 ![Profile Views](https://envs.sh/F52.jpg)
