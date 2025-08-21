@@ -1,5 +1,5 @@
   <a href="https://github.com/vishnuu123pl/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Stay+Humble&font=Fira%20SemiBold&center=true&width=480&height=45&color=fff68f&vCenter=true&pause=1000&size=28"/></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Stay+Humble&font=Fira%20SemiBold&center=true&width=480&height=45&color=fff68f&vCenter=true&pause=1000&size=40"/></a>
 </p>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+My+GitHub+Profile;My+Name+Is+Vishnu❤️;I+Am+Nothing;Currently+Learning+Nothing;Thank+You!)
@@ -9,7 +9,7 @@
 ---
 ## 👋 Hii, I’m VISHNU A, Welcome to my GitHub Profile
 ![Profile Views](https://envs.sh/F52.jpg)
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝗪𝗘𝗟𝗖𝗢𝗠𝗘𝗧𝗢+𝙑𝙄𝙎𝙃𝙉𝙐-𝘼!;𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+𝗧𝗘𝗔𝗠+𝙑𝙄𝙎𝙃𝙉𝙐-𝘼!;𝗜𝗔𝗠+𝗔+𝗦𝗜𝗠𝗣𝗟𝗘+𝗧𝗚+𝗗𝗘𝗩𝗢𝗟𝗣𝗘𝗥+𝗕𝗢𝗧!)</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝗪𝗘𝗟𝗖𝗢𝗠𝗘+𝗧𝗢+𝙑𝙄𝙎𝙃𝙉𝙐-𝘼!;𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+𝙑𝙄𝙎𝙃𝙉𝙐!;𝗜𝗔𝗠+𝗔+𝗦𝗜𝗠𝗣𝗟𝗘+𝗧𝗚+𝗗𝗘𝗩𝗢𝗟𝗣𝗘𝗥+𝗕𝗢𝗧!)</p>
 [![Sparkline](https://stars.medv.io/MrMKN/PROFESSOR-BOT.svg)](https://stars.medv.io/MrMKN/PROFESSOR-BOT)
 
 <p align="left">
